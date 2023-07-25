@@ -38,9 +38,5 @@ This is a simple HTML, CSS, and JavaScript code for an Image Uploader web applic
 8. **Helper Function:**
    - The code includes a helper function `getRandomPosition(min, max)` that generates a random position (horizontal or vertical) between the specified min and max values.
 
-## Usage
-Simply include the provided HTML, CSS, and JavaScript files in your project. Ensure that the file paths are correctly referenced in the HTML file. The web application should work as described, allowing users to upload images, interact with them, and move the focused image using arrow keys.
-
-Feel free to modify and customize the styles or add more features to suit your specific needs!
 
 ---
